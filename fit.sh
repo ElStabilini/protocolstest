@@ -5,5 +5,5 @@
 #SBATCH --time=01:00:00            # Time limit
 #SBATCH --partition=iqm5q            # Partition name
 
-# Run the qq acquire command
-qq acquire /home/users/elisa.stabilini/protocolstest/res_spetroscopy.yml -o /home/users/elisa.stabilini/protocolstest/output/res_spetroscopy
+# Run the qq fit command
+qq fit /home/users/elisa.stabilini/protocolstest/output/res_spetroscopy
