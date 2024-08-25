@@ -2,7 +2,6 @@
 
 # SBATCH directives (optional)
 #SBATCH --job-name=time_of_flight  # Job name
-#SBATCH --time=01:00:00            # Time limit
 #SBATCH --partition=iqm5q            # Partition name
 
 # Run the qq acquire command
