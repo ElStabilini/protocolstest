@@ -1,0 +1,10 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: dispersive shift qt
+      operation: dispersive_shift_qutrit
+      parameters:
+        freq_step: 200000
+        freq_width: 1000000

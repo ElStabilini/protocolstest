@@ -1,0 +1,20 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: qubit crosstalk
+      operation: qubit_crosstalk
+      targets: [2]
+      parameters:
+        bias_point:
+            2: 0.25
+        bias_step: 0.001
+        bias_width: 0.05
+        drive_amplitude: 0.002
+        drive_duration: 4000
+        flux_qubits: [0, 3]
+        freq_step: 200000
+        freq_width: 10000000
+        nshots: 1024
+        relaxation_time: 20000

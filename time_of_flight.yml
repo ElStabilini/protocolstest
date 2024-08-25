@@ -1,0 +1,12 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: time of flight experiment      # custom ID of the experiment
+      operation: time_of_flight_readout  # unique name of the routine
+      parameters:
+        readout_amplitude: 1             # usually high
+        window_size: 10
+        nshots: 1024
+        relaxation_time: 20_000

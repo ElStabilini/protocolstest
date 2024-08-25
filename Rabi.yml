@@ -1,0 +1,14 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: Rabi amplitude
+      operation: rabi_amplitude
+      parameters:
+        min_amp_factor: 0.1
+        max_amp_factor: 1.
+        step_amp_factor: 0.01
+        pulse_length: 40
+        nshots: 3000
+        relaxation_time: 50000

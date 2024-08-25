@@ -1,0 +1,12 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: T2 echo
+      operation: spin_echo
+      parameters:
+        delay_between_pulses_end: 100000
+        delay_between_pulses_start: 4
+        delay_between_pulses_step: 1000
+        nshots: 1000

@@ -1,0 +1,9 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: allxy
+      operation: allxy
+      parameters:
+        nshots: 2000

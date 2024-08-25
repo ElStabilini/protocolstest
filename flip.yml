@@ -1,0 +1,11 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: flipping
+      operation: flipping
+      parameters:
+        detuning: 0.05
+        nflips_max: 30
+        nflips_step: 1

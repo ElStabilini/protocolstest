@@ -1,0 +1,10 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: calibrate kernels                     # custom ID of the experiment
+      operation: calibrate_state_discrimination # unique name of the routine
+      parameters:
+        nshots: 1024
+        relaxation_time: 20_000
