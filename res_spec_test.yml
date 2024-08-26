@@ -1,0 +1,13 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: resonator high power high amplitude
+      operation: resonator_spectroscopy
+      parameters:
+          freq_width: 10_000_000
+          freq_step: 100_000
+          amplitude: 0.4
+          power_level: high
+          nshots: 1024
