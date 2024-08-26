@@ -1,0 +1,27 @@
+{
+    "title": "res_spetroscopy",
+    "backend": "qibolab",
+    "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
+    "start_time": "2024-08-26 05:34:36.830204+00:00",
+    "end_time": "2024-08-26 05:35:10.677261+00:00",
+    "stats": {
+        "resonator_spectroscopy high power-0": {
+            "acquisition": 0,
+            "fit": 0.008580934954807162
+        }
+    },
+    "author": null,
+    "tag": null,
+    "targets": [
+        0
+    ],
+    "versions": {
+        "qibo": "0.2.11",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.0.11"
+    },
+    "date": "2024-08-26",
+    "start-time": "05:34:36",
+    "end-time": "05:35:10"
+}

@@ -1,0 +1,19 @@
+[Qibo 0.2.11|INFO|2024-08-26 09:34:27]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-26 09:34:27]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-26 09:34:27]: Creating directory /home/users/elisa.stabilini/protocolstest/output/res_spetroscopy.[0m
+[Qibo 0.2.11|INFO|2024-08-26 09:34:27]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x738bb8ed41f0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x738bb8ed4190>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x738bc035d7b0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x738bc035d780>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x738bb8ed4dc0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x738bb8ed4d90>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x738bb8ed60b0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x738bb8ed60e0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x738bb8ed4cd0>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x738bb8ed4610>.
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x738bb8ed4220>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-26 09:34:36]: Executing mode ACQUIRE on resonator_spectroscopy high power.[0m
+[Qibo 0.2.11|INFO|2024-08-26 09:34:36]: Minimal execution time (sweep): 31.334400000000002
+[38;20m[Qibocal 0.0.11|INFO|2024-08-26 09:35:10]: Finished acquisition in 33.84 seconds[0m
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.22s
