@@ -6,8 +6,8 @@
     "end_time": "2024-08-26 05:35:10.677261+00:00",
     "stats": {
         "resonator_spectroscopy high power-0": {
-            "acquisition": 33.84009958198294,
-            "fit": 0
+            "acquisition": 0,
+            "fit": 0.008580934954807162
         }
     },
     "author": null,

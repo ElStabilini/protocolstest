@@ -117,7 +117,7 @@
                     "duration": 2000,
                     "amplitude": 0.1999,
                     "shape": "Rectangular()",
-                    "frequency": 5233350000,
+                    "frequency": 5225140972,
                     "relative_start": 0,
                     "phase": 0,
                     "type": "ro"
@@ -398,8 +398,8 @@
     "characterization": {
         "single_qubit": {
             "0": {
-                "bare_resonator_frequency": 5221992000,
-                "readout_frequency": 5233350000,
+                "bare_resonator_frequency": 5225140972,
+                "readout_frequency": 5225140972,
                 "drive_frequency": 4105122972,
                 "anharmonicity": 218941606,
                 "sweetspot": -0.023,
