@@ -1,0 +1,12 @@
+id: resonator_spectroscopy high power
+operation: resonator_spectroscopy
+parameters:
+  amplitude: 0.6
+  freq_step: 200000
+  freq_width: 60000000
+  nshots: 1024
+  power_level: high
+  relaxation_time: 100000
+targets:
+- 0
+update: true
