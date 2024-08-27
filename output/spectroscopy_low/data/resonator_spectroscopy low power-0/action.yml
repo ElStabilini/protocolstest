@@ -1,0 +1,12 @@
+id: resonator_spectroscopy low power
+operation: resonator_spectroscopy
+parameters:
+  amplitude: 0.03
+  freq_step: 200000
+  freq_width: 60000000
+  nshots: 1024
+  power_level: low
+  relaxation_time: 100000
+targets:
+- 0
+update: true

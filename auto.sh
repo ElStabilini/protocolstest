@@ -6,4 +6,4 @@
 #SBATCH --partition=iqm5q            # Partition name
 
 # Run the qq acquire command
-qq auto /home/users/elisa.stabilini/protocolstest/res_punchout.yml -o /home/users/elisa.stabilini/protocolstest/output/res_punchout
+qq auto /home/users/elisa.stabilini/protocolstest/spectroscopy_low.yml -o /home/users/elisa.stabilini/protocolstest/output/spectroscopy_low
