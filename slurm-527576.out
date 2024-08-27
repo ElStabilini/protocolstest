@@ -1,0 +1,20 @@
+[Qibo 0.2.11|INFO|2024-08-27 22:10:36]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-27 22:10:37]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-27 22:10:37]: Creating directory /home/users/elisa.stabilini/protocolstest/output/res_punchout.[0m
+[Qibo 0.2.11|INFO|2024-08-27 22:10:37]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7eadb8e2a590>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7eadb8e28820>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7eadbfd6a7d0>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7eadbfd6a800>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7eadb8e287c0>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7eadb8e28790>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7eadb8e2a380>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7eadb8e2a350>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7eadb8e28700>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7eadb8e28730>.
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7eadb8e2a560>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-27 22:10:46]: Executing mode AUTOCALIBRATION on resonator punchout.[0m
+[Qibo 0.2.11|INFO|2024-08-27 22:10:46]: Minimal execution time (sweep): 9.175040000000001
+[38;20m[Qibocal 0.0.11|INFO|2024-08-27 22:10:59]: Finished acquisition in 13.34 seconds[0m
+[38;20m[Qibocal 0.0.11|INFO|2024-08-27 22:10:59]: Finished fit in less than 1 second.[0m
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.22s

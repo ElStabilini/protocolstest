@@ -1,0 +1,11 @@
+{
+    "\"readout_frequency\"": {
+        "0": 5233850000.0
+    },
+    "\"bare_frequency\"": {
+        "0": 5224850000.0
+    },
+    "\"readout_amplitude\"": {
+        "0": 0.003
+    }
+}
