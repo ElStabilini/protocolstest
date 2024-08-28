@@ -1,0 +1,27 @@
+{
+    "title": "qubit_spectroscopy",
+    "backend": "qibolab",
+    "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
+    "start_time": "2024-08-28 05:35:10.309550+00:00",
+    "end_time": "2024-08-28 05:35:25.076237+00:00",
+    "stats": {
+        "qubit spectroscopy 01-0": {
+            "acquisition": 14.756537965964526,
+            "fit": 0.0015869539929553866
+        }
+    },
+    "author": null,
+    "tag": null,
+    "targets": [
+        0
+    ],
+    "versions": {
+        "qibo": "0.2.11",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.0.11"
+    },
+    "date": "2024-08-28",
+    "start-time": "05:35:10",
+    "end-time": "05:35:25"
+}

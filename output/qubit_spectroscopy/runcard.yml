@@ -1,0 +1,17 @@
+actions:
+- id: qubit spectroscopy 01
+  operation: qubit_spectroscopy
+  parameters:
+    drive_amplitude: 0.5
+    drive_duration: 4000
+    freq_step: 100000
+    freq_width: 100000000
+    nshots: 1024
+    relaxation_time: 5000
+  targets: null
+  update: true
+backend: qibolab
+platform: iqm5q
+targets:
+- 0
+update: true
