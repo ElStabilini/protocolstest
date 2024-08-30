@@ -1,0 +1,15 @@
+actions:
+- id: single shot classification
+  operation: single_shot_classification
+  parameters:
+    classifiers_list:
+    - qubit_fit
+    - naive_bayes
+    nshots: 5000
+  targets: null
+  update: true
+backend: qibolab
+platform: iqm5q
+targets:
+- 0
+update: true

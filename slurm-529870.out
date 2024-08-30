@@ -1,0 +1,66 @@
+[Qibo 0.2.11|INFO|2024-08-30 10:11:49]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-30 10:11:50]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:11:50]: Creating directory /home/users/elisa.stabilini/protocolstest/output/classification_1shot.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:11:50]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x74693980ee30>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x74693980edd0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x74693a6c17e0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x74693a6c17b0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x74693980ec80>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x74693980eb60>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x74693980fd30>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x74693980e320>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x74693980e350>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x74693980e710>.
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x74693980ee60>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:11:58]: Executing mode AUTOCALIBRATION on single shot classification.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:11:58]: Minimal execution time (sequence): 1.51
+[Qibo 0.2.11|INFO|2024-08-30 10:12:02]: Minimal execution time (sequence): 1.5102
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:12:06]: Finished acquisition in 7.31 seconds[0m
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.21s
+Traceback (most recent call last):
+  File "/nfs/tools/qibo/bin/qq", line 8, in <module>
+    sys.exit(command())
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/_base.py", line 75, in auto
+    autocalibrate(runcard, folder, force, update)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/autocalibration.py", line 42, in autocalibrate
+    history = runcard.run(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/runcard.py", line 63, in run
+    instance.run_protocol(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/execute.py", line 131, in run_protocol
+    completed = task.run(platform=self.platform, targets=self.targets, mode=mode)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/task.py", line 160, in run
+    completed.results, completed.results_time = operation.fit(completed.data)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/operation.py", line 42, in wrapper
+    out = func(*args, **kwds)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/protocols/classification.py", line 262, in _fit
+    benchmark_table, y_test, x_test, models, names, hpars_list = run.train_qubit(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/fitting/classifier/run.py", line 247, in train_qubit
+    classifiers = import_classifiers(classifiers)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/fitting/classifier/run.py", line 56, in import_classifiers
+    classifiers = list(map(importing_func, cls_names))
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/fitting/classifier/run.py", line 53, in <lambda>
+    importing_func = lambda mod: importlib.import_module(
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/fitting/classifier/naive_bayes.py", line 3, in <module>
+    from . import scikit_utils
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/fitting/classifier/scikit_utils.py", line 4, in <module>
+    import onnxruntime as rt
+ModuleNotFoundError: No module named 'onnxruntime'
