@@ -1,0 +1,60 @@
+[Qibo 0.2.11|INFO|2024-08-30 10:57:47]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-30 10:57:47]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:57:47]: Creating directory /home/users/elisa.stabilini/protocolstest/output/T1.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:57:47]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7852768bcd90>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7852768bce20>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x78527d9727a0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x78527d9727d0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7852768bc790>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7852768bc730>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7852768bd210>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7852768bc6a0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7852768bd270>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7852768bc520>.
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7852768bdf60>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:57:56]: Executing mode AUTOCALIBRATION on t1.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:57:56]: Minimal execution time (sweep): 61.857792
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.22s
+Traceback (most recent call last):
+  File "/nfs/tools/qibo/bin/qq", line 8, in <module>
+    sys.exit(command())
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/_base.py", line 75, in auto
+    autocalibrate(runcard, folder, force, update)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/autocalibration.py", line 42, in autocalibrate
+    history = runcard.run(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/runcard.py", line 63, in run
+    instance.run_protocol(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/execute.py", line 131, in run_protocol
+    completed = task.run(platform=self.platform, targets=self.targets, mode=mode)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/task.py", line 149, in run
+    completed.data, completed.data_time = operation.acquisition(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/operation.py", line 42, in wrapper
+    out = func(*args, **kwds)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/protocols/coherence/t1.py", line 102, in _acquisition
+    results = platform.sweep(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/platform/platform.py", line 301, in sweep
+    new_result = instrument.sweep(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/controller.py", line 293, in sweep
+    self._sweep_recursion(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/controller.py", line 510, in _sweep_recursion
+    res = self._execute_pulse_sequence(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/controller.py", line 179, in _execute_pulse_sequence
+    module.process_pulse_sequence(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/cluster_qrm_rf.py", line 555, in process_pulse_sequence
+    sweeper.qs = QbloxSweeper.from_sweeper(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/sweeper.py", line 238, in from_sweeper
+    return cls(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibolab/instruments/qblox/sweeper.py", line 169, in __init__
+    raise ValueError(
+ValueError: Sweeper start values are not within the allowed range

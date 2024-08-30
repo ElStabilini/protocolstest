@@ -3,11 +3,12 @@ platform: iqm5q
 targets: [0]
 
 actions:
-    - id: ramsey
+    - id: ramsey detuned
       operation: ramsey
       parameters:
-        delay_between_pulses_end: 2000
-        delay_between_pulses_start: 50
-        delay_between_pulses_step: 50
-        detuning: -1000000
-        nshots: 1024
+        delay_between_pulses_end: 40000
+        delay_between_pulses_start: 100
+        delay_between_pulses_step: 1000
+        n_osc: 0
+        nshots: 4096
+        relaxation_time: 200000
