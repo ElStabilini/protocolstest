@@ -3,10 +3,14 @@ platform: iqm5q
 targets: [0]
 
 actions:
-    - id: T2 echo
-      operation: spin_echo
+    - id: qubit flux dependence
+    
+      operation: qubit_flux
       parameters:
-        delay_between_pulses_end: 100000
-        delay_between_pulses_start: 4
-        delay_between_pulses_step: 1000
-        nshots: 1000
+          freq_width: 100_000_000
+          freq_step: 500_000
+          bias_width: 0.20
+          bias_step:  0.01
+          drive_amplitude: 0.1
+          nshots: 1024
+          relaxation_time: 20_000
