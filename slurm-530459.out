@@ -57,3 +57,356 @@
 [Qibo 0.2.11|INFO|2024-08-30 17:47:30]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
 [Qibo 0.2.11|INFO|2024-08-30 17:47:30]: Minimal execution time (sequence): 0.03876864
 [Qibo 0.2.11|INFO|2024-08-30 17:47:33]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:42]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:47:45]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:47:53]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:47:56]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:04]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:48:07]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:15]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:48:18]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:26]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:48:28]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:37]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:48:40]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:48]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:48:51]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:48:59]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:01]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:09]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:09]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:10]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:12]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:20]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:20]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:21]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:23]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:32]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:35]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:44]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:47]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:49:55]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:49:58]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:06]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:50:09]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:17]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:50:20]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:28]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:50:31]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:40]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:50:42]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:50:51]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:50:53]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:01]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:04]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:12]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:15]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:24]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:26]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:34]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:34]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:35]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:37]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:46]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:48]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:51:57]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:51:59]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:08]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:52:10]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:18]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:18]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:19]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:52:21]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a5810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7cc53e6a57e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e692080>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e6911e0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7cc53e691690>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691cf0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692890>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e691270>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7cc53e692cb0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:29]: Minimal execution time (sequence): 0.03876864
+[Qibo 0.2.11|INFO|2024-08-30 17:52:32]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7cc53e692650>.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:40]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:52:40]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7cc53e690ca0>.
