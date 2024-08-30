@@ -1,0 +1,22 @@
+[Qibo 0.2.11|INFO|2024-08-30 17:29:31]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-30 17:29:32]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+Traceback (most recent call last):
+  File "/nfs/tools/qibo/bin/qq", line 8, in <module>
+    sys.exit(command())
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/_base.py", line 75, in auto
+    autocalibrate(runcard, folder, force, update)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/autocalibration.py", line 26, in autocalibrate
+    path = Output.mkdir(folder, force)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/output.py", line 182, in mkdir
+    raise RuntimeError(f"Directory {path} already exists.")
+RuntimeError: Directory /home/users/elisa.stabilini/protocolstest/output/T2 already exists.

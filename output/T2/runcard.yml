@@ -5,7 +5,6 @@ actions:
     delay_between_pulses_end: 40000
     delay_between_pulses_start: 100
     delay_between_pulses_step: 1000
-    n_osc: 0
     nshots: 4096
     relaxation_time: 200000
   targets: null

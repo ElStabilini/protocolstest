@@ -99,7 +99,7 @@
                     "duration": 40,
                     "amplitude": 0.358,
                     "shape": "Gaussian(5)",
-                    "frequency": 4105122972,
+                    "frequency": 4105026962,
                     "relative_start": 0,
                     "phase": 0,
                     "type": "qd"
@@ -400,7 +400,7 @@
             "0": {
                 "bare_resonator_frequency": 5221992000,
                 "readout_frequency": 5233350000,
-                "drive_frequency": 4105122972,
+                "drive_frequency": 4105026962,
                 "anharmonicity": 218941606,
                 "sweetspot": -0.023,
                 "asymmetry": 0.0,

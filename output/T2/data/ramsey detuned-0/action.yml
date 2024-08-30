@@ -1,0 +1,11 @@
+id: ramsey detuned
+operation: ramsey
+parameters:
+  delay_between_pulses_end: 40000
+  delay_between_pulses_start: 100
+  delay_between_pulses_step: 1000
+  nshots: 4096
+  relaxation_time: 200000
+targets:
+- 0
+update: true

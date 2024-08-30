@@ -2,9 +2,14 @@
     "title": "T2",
     "backend": "qibolab",
     "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
-    "start_time": null,
-    "end_time": null,
-    "stats": {},
+    "start_time": "2024-08-30 13:32:41.395379+00:00",
+    "end_time": "2024-08-30 13:33:23.228708+00:00",
+    "stats": {
+        "ramsey detuned-0": {
+            "acquisition": 41.820078667020425,
+            "fit": 0.005140024935826659
+        }
+    },
     "author": null,
     "tag": null,
     "targets": [
@@ -16,7 +21,7 @@
         "qibolab": "0.1.9",
         "qibocal": "0.0.11"
     },
-    "date": null,
-    "start-time": null,
-    "end-time": null
+    "date": "2024-08-30",
+    "start-time": "13:32:41",
+    "end-time": "13:33:23"
 }
