@@ -6,4 +6,4 @@
 #SBATCH --partition=iqm5q            # Partition name
 
 # Run the qq acquire command
-qq auto /home/users/elisa.stabilini/protocolstest/classification.yml -o /home/users/elisa.stabilini/protocolstest/output/classification_1shot
+qq auto /home/users/elisa.stabilini/protocolstest/single_shot.yml -o /home/users/elisa.stabilini/protocolstest/output/single_shot

@@ -1,0 +1,9 @@
+platform: iqm5q
+
+targets: [0]
+
+actions:
+    - id: single shot classification
+      operation: single_shot_classification
+      parameters:
+        nshots: 5000

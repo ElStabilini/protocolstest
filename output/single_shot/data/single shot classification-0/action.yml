@@ -1,0 +1,7 @@
+id: single shot classification
+operation: single_shot_classification
+parameters:
+  nshots: 5000
+targets:
+- 0
+update: true

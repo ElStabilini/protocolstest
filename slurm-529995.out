@@ -1,0 +1,22 @@
+[Qibo 0.2.11|INFO|2024-08-30 10:38:37]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-30 10:38:38]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:38:38]: Creating directory /home/users/elisa.stabilini/protocolstest/output/single_shot.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:38:38]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x7f304d70f430>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x7f304d70eef0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7f304df697e0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x7f304df697b0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7f304d70d390>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7f304d70f250>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x7f304d70e920>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7f304d70e950>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7f304d70cf70>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7f304d70cfa0>.
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x7f304d70cf40>.
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:38:46]: Executing mode AUTOCALIBRATION on single shot classification.[0m
+[Qibo 0.2.11|INFO|2024-08-30 10:38:46]: Minimal execution time (sequence): 1.51
+[Qibo 0.2.11|INFO|2024-08-30 10:38:49]: Minimal execution time (sequence): 1.5102
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:38:53]: Finished acquisition in 7.20 seconds[0m
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 10:38:53]: Finished fit in less than 1 second.[0m
+INFO:qibocal.config:Finished fit in less than 1 second.
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.22s
