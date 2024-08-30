@@ -1,0 +1,9 @@
+platform: iqm5q
+
+targets: [0]
+
+actions: 
+    - id: readout characterization
+      operation: readout_characterization
+      parameters:
+        nshots: 5000

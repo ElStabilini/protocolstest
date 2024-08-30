@@ -1,0 +1,22 @@
+{
+    "title": "T2",
+    "backend": "qibolab",
+    "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
+    "start_time": null,
+    "end_time": null,
+    "stats": {},
+    "author": null,
+    "tag": null,
+    "targets": [
+        0
+    ],
+    "versions": {
+        "qibo": "0.2.11",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.0.11"
+    },
+    "date": null,
+    "start-time": null,
+    "end-time": null
+}

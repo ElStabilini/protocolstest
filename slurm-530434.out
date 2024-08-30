@@ -1,0 +1,43 @@
+[Qibo 0.2.11|INFO|2024-08-30 17:21:22]: Loading platform dummy
+[Qibo 0.2.11|INFO|2024-08-30 17:21:23]: Loading platform /nfs/tools/qibolab_platforms_qrc/iqm5q
+[38;20m[Qibocal 0.0.11|INFO|2024-08-30 17:21:23]: Creating directory /home/users/elisa.stabilini/protocolstest/output/T2.[0m
+[Qibo 0.2.11|INFO|2024-08-30 17:21:23]: Connecting to instrument <qibolab.instruments.qblox.controller.QbloxController object at 0x72510c4293f0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: QbloxController: all modules connected.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.rohde_schwarz.SGS100A object at 0x72510c429810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x72510d2c9840>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qrm_rf.QrmRf object at 0x72510d2c9810>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x72510d290790>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x72510d2925f0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_rf.QcmRf object at 0x72510c429390>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x72510c429360>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x72510c4292d0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x72510c4290c0>.
+[Qibo 0.2.11|INFO|2024-08-30 17:21:31]: Connecting to instrument <qibolab.instruments.qblox.cluster_qcm_bb.QcmBb object at 0x72510c429420>.
+Connected to: Rohde&Schwarz SGS100A (serial:1416.0505k02/113302, firmware:4.2.76.0-4.30.046.295) in 0.21s
+Traceback (most recent call last):
+  File "/nfs/tools/qibo/bin/qq", line 8, in <module>
+    sys.exit(command())
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/_base.py", line 75, in auto
+    autocalibrate(runcard, folder, force, update)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/cli/autocalibration.py", line 42, in autocalibrate
+    history = runcard.run(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/runcard.py", line 63, in run
+    instance.run_protocol(
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/execute.py", line 128, in run_protocol
+    task = Task(action=parameters, operation=protocol)
+  File "<string>", line 5, in __init__
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/task.py", line 86, in __post_init__
+    self.operation.parameters_type.load(self.action.parameters)
+  File "/nfs/tools/qibo/lib/python3.10/site-packages/qibocal/auto/operation.py", line 99, in load
+    instantiated_class = cls(**parameters)
+TypeError: RamseyParameters.__init__() got an unexpected keyword argument 'n_osc'
