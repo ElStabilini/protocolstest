@@ -1,0 +1,27 @@
+{
+    "title": "fidelities",
+    "backend": "qibolab",
+    "platform": "/nfs/tools/qibolab_platforms_qrc/iqm5q",
+    "start_time": "2024-08-30 18:41:16.009743+00:00",
+    "end_time": "2024-08-30 18:41:31.387534+00:00",
+    "stats": {
+        "readout characterization-0": {
+            "acquisition": 15.326390627073124,
+            "fit": 0.002996896975673735
+        }
+    },
+    "author": null,
+    "tag": null,
+    "targets": [
+        0
+    ],
+    "versions": {
+        "qibo": "0.2.11",
+        "numpy": "1.26.4",
+        "qibolab": "0.1.9",
+        "qibocal": "0.0.11"
+    },
+    "date": "2024-08-30",
+    "start-time": "18:41:16",
+    "end-time": "18:41:31"
+}

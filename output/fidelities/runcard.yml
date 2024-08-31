@@ -1,0 +1,12 @@
+actions:
+- id: readout characterization
+  operation: readout_characterization
+  parameters:
+    nshots: 5000
+  targets: null
+  update: true
+backend: qibolab
+platform: iqm5q
+targets:
+- 0
+update: true
